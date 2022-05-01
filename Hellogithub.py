@@ -1,2 +1,4 @@
-print('hellow github')
-print('hellow world')
+print('hello github')
+
+print('Peelaphat')
+
